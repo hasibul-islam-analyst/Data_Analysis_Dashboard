@@ -1,4 +1,4 @@
-# Data_Analysis_Dashboard
+# excel-sales-data-analysis
 
 ## Overview
 This project analyzes historical sales data to uncover insights into sales performance, product trends, and geographic distribution. The dashboard was developed using Excel to support data-driven decision-making.
